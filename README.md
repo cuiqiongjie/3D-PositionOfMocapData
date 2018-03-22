@@ -16,7 +16,7 @@ asf/amc/mat file in every folder.
 
 ![figure.png](figure3.png)
 ---
-![walkingPose.png](walking.gif)
+
 ---
-<div align=center><img width="150" height="150" src="walking.gif"/></div>
+<div align=center><img src="walking.gif"/></div>
 

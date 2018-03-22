@@ -15,5 +15,8 @@ asf/amc/mat file in every folder.
 ####3. Figure 3D-Position motion
 
 ![figure.png](figure3.png)
+---
 ![walkingPose.png](walking.gif)
+---
+<div align=center><img width="150" height="150" src="walking.gif"/></div>
 

@@ -17,4 +17,5 @@ asf/amc/mat file in every folder.
 ![这是描述](figure3.png)
 ---
 <div align=center><img src="walking.gif"/></div>
+<div align=center><img src="gt_running.gif"/></div>
 

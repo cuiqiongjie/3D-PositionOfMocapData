@@ -1,4 +1,4 @@
-## 3d-position data of mocap data captured from CMU
+## 3D Position data of CMU mocap (motion capture) benchmark (http://mocap.cs.cmu.edu)
 
 ### 1.Folder Instructions
 
